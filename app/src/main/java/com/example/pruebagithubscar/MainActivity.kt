@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//hola scar
+//hola Luna Mariana Scarlett Avila Seceña
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
